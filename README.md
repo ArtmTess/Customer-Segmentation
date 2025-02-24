@@ -14,7 +14,7 @@ Customer Segmentation analysis
 ## Project_Overview
 Customer segmentation analysis is a detailed analysis of a company's ideal customers. The goal is to help a business better understand its customers. 
 In this project was performed clustering on customer records from a food retailer's database. 
-Customer segmentation is the practice of dividing customers into groups that reflect the similarities between the customers in each cluster.
+Customer segmentation is dividing customers into groups that reflect the similarities between the customers in each cluster.
 
 ## Data_Source
 The primary dataset used for this analysis is the "marketing_campaign.csv" file. 
@@ -27,15 +27,17 @@ This dataset includes 29 columns, which provide comprehensive details about cust
 - Power BI was used for Data Visualization.
 
 ### Python_code_and_output
-
+Python was used for data analysis and the code can be checked [here] ([https://www.kaggle.com/code/anastasiaartemova/customer-segmentation-analysis](https://github.com/ArtmTess/Customer-Segmentation/blob/main/customer-segmentation-analysis.ipynb))
   
 
 ### Data_Cleaning_and_Preparation
-In the data preparation phase were performed steps: 
-- Data loading and data exploration. 
-- Handling errors / missing values. 
+In the data preparation phase the performed steps: 
+- Data loading and data exploration.
+-    CSV file can be downloaded [here] (https://github.com/ArtmTess/Customer-Segmentation/blob/main/marketing_campaign.csv)
+- Handling errors / missing values:
+-    performed filtering out rows with year <=1900 year(3 rows), with empty income (24 rows) as final got 2213 rows for analysis. 
 - Data cleaning, and formatting.
-These steps were performed by Python in Kaggle and can be checked [here] ([https://www.kaggle.com/code/anastasiaartemova/customer-segmentation-analysis](https://github.com/ArtmTess/Customer-Segmentation/blob/main/customer-segmentation-analysis.ipynb))
+
   
 ### Exploratory_Data_Analysis
 - Distribution of clients' income by education level, age, and family size. 
@@ -44,7 +46,13 @@ These steps were performed by Python in Kaggle and can be checked [here] ([https
 - Comparing web visits vs web purchases
 
 ### Results
-- 
+- The average age of the analyzed cohort of customers is 55 years old (from Python code). In Power BI, I divided customers into three groups by age: 40-60, >60, and <40.
+- The maximum income belongs to the group of customers 40-60 years.
+- The maximum income by family size falls on families consisting of 2–3 people.
+- By education level, the maximum income belongs to customers who  graduated and the minimum for undergraduates.
+- Customers spent maximum for wines and meat. The minimum was spent on fruits, on the same level sweets and a little more on fish.
+- Most purchases (46%) were made via a store, 33% via a website, and 21% via  catalog.
+- Visiting the website resulted in a purchase in 77% cases.
 ![Screenshot 2025-02-23 174430](https://github.com/user-attachments/assets/3f526f49-2a7e-45b2-8884-68044b37273f)
 
 
