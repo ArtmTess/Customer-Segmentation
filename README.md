@@ -5,9 +5,11 @@ Customer Segmentation analysis
 1. [Project Overview](#Project_Overview)
 2. [Data Source](#Data_Source)
 3. [Analysis_Process](#Analysis_Process)
-4. [Results](#Results)
-5. [Challenges](#Challenges)
-6. [Excel Dashboard](#Excel Dashboard)
+   3.1 [Tools](#Tools)
+   3.2 [Python code and output](#Python code and output)
+   3.3 [Data Cleaning and Preparation](#Data Cleaning and Preparation)
+   3.4 [Exploratory Data Analysis](#Exploratory Data Analysis)
+5. [Results](#Results)
 
 ## Project_Overview
 Customer segmentation analysis is a detailed analysis of a company's ideal customers. The goal is to help a business better understand its customers. 
