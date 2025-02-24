@@ -19,11 +19,11 @@ Customer segmentation is the practice of dividing customers into groups that ref
 ## Data_Source
 The primary dataset used for this analysis is the "marketing_campaign.csv" file. 
 This dataset includes 29 columns, which provide comprehensive details about customer demographics, spending habits, campaign responses, and engagement.
-[Download here]("../input/customer-personality-analysis/marketing_campaign.csv")
+[Download here]('https://www.kaggle.com/code/anastasiaartemova/customer-segmentation-analysis?select=marketing_campaign.csv")
 
 ## Analysis_Process
 ### Tools
-- Python Notebook in [Kaggle](https://www.kaggle.com/) was used for Data Analysis.
+- Python Notebook in [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/code/anastasiaartemova/customer-segmentation-analysis)) was used for Data Analysis.
 - Power Query was used for Data Cleaning and Clastering Customers;
 - Power BI was used for Data Visualization.
 
