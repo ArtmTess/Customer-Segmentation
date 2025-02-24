@@ -12,7 +12,6 @@ Customer Segmentation analysis
 5. [Results](#Results)
 
 ## Project_Overview
-Customer segmentation analysis is a detailed analysis of a company's ideal customers. The goal is to help a business better understand its customers. 
 In this project was performed clustering on customer records from a food retailer's database. 
 Customer segmentation is dividing customers into groups that reflect the similarities between the customers in each cluster.
 
@@ -23,20 +22,18 @@ This dataset includes 29 columns, which provide comprehensive details about cust
 ## Analysis_Process
 ### Tools
 - Python Notebook in [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/code/anastasiaartemova/customer-segmentation-analysis)) was used for Data Analysis.
-- Power Query was used for Data Cleaning and Clastering Customers;
-- Power BI was used for Data Visualization.
+- Data Analysis Expressions (DAX) and M language Data Cleaning and Clastering Customers;
+- Data Visualization was performed via Power BI.
 
 ### Python_code_and_output
-Python was used for data analysis and the code can be checked [here] ([https://www.kaggle.com/code/anastasiaartemova/customer-segmentation-analysis](https://github.com/ArtmTess/Customer-Segmentation/blob/main/customer-segmentation-analysis.ipynb))
+Python code for data analysis can be checked [here] ([https://www.kaggle.com/code/anastasiaartemova/customer-segmentation-analysis](https://github.com/ArtmTess/Customer-Segmentation/blob/main/customer-segmentation-analysis.ipynb))
   
 
 ### Data_Cleaning_and_Preparation
 In the data preparation phase the performed steps: 
 - Data loading and data exploration.
--    
-- Handling errors / missing values:
--    performed filtering out rows with year <=1900 year(3 rows), with empty income (24 rows) as final got 2213 rows for analysis. 
-- Data cleaning, and formatting.
+- Handling errors / missing values: performed filtering out rows with year <=1900 year(3 rows), with empty income (24 rows) as final got 2213 rows for analysis. 
+- Data cleaning, and formatting: calculated age of customers and divided by age groups; calculated family size; formatted educational level and total spending.
 
   
 ### Exploratory_Data_Analysis
@@ -50,9 +47,9 @@ In the data preparation phase the performed steps:
 - The maximum income belongs to the group of customers 40-60 years.
 - The maximum income by family size falls on families consisting of 2–3 people.
 - By education level, the maximum income belongs to customers who  graduated and the minimum for undergraduates.
-- Customers spent maximum for wines and meat. The minimum was spent on fruits, on the same level sweets and a little more on fish.
-- Most purchases (46%) were made via a store, 33% via a website, and 21% via  catalog.
-- Visiting the website resulted in a purchase in 77% cases.
+- Customers spent maximum for wines and meat. The minimum was spent on fruits, on the same level of sweets, and a little more on fish.
+- Most purchases (46%) were made via a store, 33% via a website, and 21% via a catalog.
+- Visiting the website resulted in a purchase in 77% of cases.
 ![Screenshot 2025-02-23 174430](https://github.com/user-attachments/assets/3f526f49-2a7e-45b2-8884-68044b37273f)
 
 
