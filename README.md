@@ -17,7 +17,7 @@ In this project was performed clustering on customer records from a food retaile
 Customer segmentation is dividing customers into groups that reflect the similarities between the customers in each cluster.
 
 ## Data_Source
-The primary dataset used for this analysis is the "marketing_campaign.csv" file. 
+The primary dataset used for this analysis is the "marketing_campaign.csv" and can be downloaded [here] (https://github.com/ArtmTess/Customer-Segmentation/blob/main/marketing_campaign.csv)
 This dataset includes 29 columns, which provide comprehensive details about customer demographics, spending habits, campaign responses, and engagement.
 
 ## Analysis_Process
@@ -33,7 +33,7 @@ Python was used for data analysis and the code can be checked [here] ([https://w
 ### Data_Cleaning_and_Preparation
 In the data preparation phase the performed steps: 
 - Data loading and data exploration.
--    CSV file can be downloaded [here] (https://github.com/ArtmTess/Customer-Segmentation/blob/main/marketing_campaign.csv)
+-    
 - Handling errors / missing values:
 -    performed filtering out rows with year <=1900 year(3 rows), with empty income (24 rows) as final got 2213 rows for analysis. 
 - Data cleaning, and formatting.
