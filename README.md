@@ -43,6 +43,7 @@ These steps were performed by Python in Kaggle and can be checked [here] (https:
 
 ### Results
 - 
-![Screenshot 2024-12-16 224124](https://github.com/user-attachments/assets/b918583e-7135-41e9-9574-9da47356bb40)
+![Screenshot](![Screenshot 2025-02-23 174430](https://github.com/user-attachments/assets/3f526f49-2a7e-45b2-8884-68044b37273f)
+
 
 
