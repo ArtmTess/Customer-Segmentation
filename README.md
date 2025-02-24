@@ -38,7 +38,7 @@ In the data preparation phase the performed steps:
   
 ### Exploratory_Data_Analysis
 - Distribution of clients' income by education level, age, and family size. 
-- Amount spent by product categories
+- Amount spent by product categories.
 - Number of purchases made through various channels.
 - Comparing web visits vs web purchases
 
