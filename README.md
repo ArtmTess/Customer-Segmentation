@@ -35,7 +35,7 @@ In the data preparation phase were performed steps:
 - Data loading and data exploration. 
 - Handling errors / missing values. 
 - Data cleaning, and formatting.
-These steps were performed by Python in Kaggle and can be checked [here] (https://www.kaggle.com/code/anastasiaartemova/customer-segmentation-analysis)
+These steps were performed by Python in Kaggle and can be checked [here] ([https://www.kaggle.com/code/anastasiaartemova/customer-segmentation-analysis](https://github.com/ArtmTess/Customer-Segmentation/blob/main/customer-segmentation-analysis.ipynb))
   
 ### Exploratory_Data_Analysis
 - Distribution of clients' income by education level, age, and family size. 
