@@ -6,9 +6,9 @@ Customer Segmentation analysis
 2. [Data Source](#Data_Source)
 3. [Analysis_Process](#Analysis_Process)
    3.1 [Tools](#Tools)
-   3.2 [Python code and output](#Python code and output)
-   3.3 [Data Cleaning and Preparation](#Data Cleaning and Preparation)
-   3.4 [Exploratory Data Analysis](#Exploratory Data Analysis)
+   3.2 [Python_code_and_output](#Python_code_and_output)
+   3.3 [Data_Cleaning_and_Preparation](#Data_Cleaning_and_Preparation)
+   3.4 [Exploratory_Data_Analysis](#Exploratory_Data_Analysis)
 5. [Results](#Results)
 
 ## Project_Overview
@@ -27,17 +27,17 @@ This dataset includes 29 columns, which provide comprehensive details about cust
 - Power Query was used for Data Cleaning and Clastering Customers;
 - Power BI was used for Data Visualization.
 
-### Python code and output
+### Python_code_and_output
   
 
-### Data Cleaning and Preparation
+### Data_Cleaning_and_Preparation
 In the data preparation phase were performed steps: 
 - Data loading and data exploration. 
 - Handling errors / missing values. 
 - Data cleaning, and formatting.
 These steps were performed by Python in Kaggle and can be checked [here] (https://www.kaggle.com/code/anastasiaartemova/customer-segmentation-analysis)
   
-### Exploratory Data Analysis
+### Exploratory_Data_Analysis
 - Distribution of clients' income by education level, age, and family size. 
 - Amount spent by product categories
 - Number of purchases made through various channels.
